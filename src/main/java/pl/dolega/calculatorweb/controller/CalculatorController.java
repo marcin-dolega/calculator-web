@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 import java.math.BigInteger;
 
 @RestController
-@RequestMapping("/calculator")
+@RequestMapping("/api")
 public class CalculatorController {
 
     CalculatorService calculatorService;
